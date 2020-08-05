@@ -1,0 +1,13 @@
+package com.springbootkeycloak.codefiction;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CodefictionDemoProjectApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
